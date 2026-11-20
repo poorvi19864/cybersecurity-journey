@@ -1,0 +1,9 @@
+hello! I'm Poorvika.
+I'm a cybersecurity student.
+I'm learning:
+1.C programming.
+2.Python.
+3.Git and GitHub.
+4.Cybersecurity
+
+This is my first GitHub repository!    
